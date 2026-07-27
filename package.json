@@ -1,6 +1,6 @@
 {
   "name": "rn-lean-toast",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "description": "A blazing fast, zero-config, edge-to-edge toast library for React Native.",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
@@ -42,6 +42,11 @@
   },
   "keywords": [
     "react-native",
+    "toast",
+    "alert",
+    "notification",
+    "edge-to-edge",
+    "zero-config",
     "ios",
     "android"
   ],
@@ -81,13 +86,15 @@
     "react": "19.2.0",
     "react-native": "0.83.10",
     "react-native-builder-bob": "^0.43.0",
+    "react-native-safe-area-context": "^5.8.0",
     "release-it": "^20.2.0",
     "turbo": "^2.9.16",
     "typescript": "^6.0.3"
   },
   "peerDependencies": {
     "react": "*",
-    "react-native": "*"
+    "react-native": "*",
+    "react-native-safe-area-context": "*"
   },
   "workspaces": [
     "example"

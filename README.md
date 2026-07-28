@@ -6,7 +6,7 @@ A blazing fast, zero-config, edge-to-edge toast library for React Native.
 ![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue?logo=typescript&logoColor=white)
 ![license](https://img.shields.io/npm/l/rn-lean-toast)
 
-<img src="https://raw.githubusercontent.com/dev-pratik-sanap/rn-lean-toast/main/docs/demo.gif" alt="Demo of rn-lean-toast" width="600" />
+<img src="https://raw.githubusercontent.com/dev-pratik-sanap/rn-lean-toast/main/src/docs/rn-lean-toast-demo-new.gif" alt="Demo of rn-lean-toast" width="600" />
 
 ## ✨ Features
 
